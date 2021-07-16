@@ -1,3 +1,0 @@
-THe third line
-I am going very well with git branchs
-it's cloudy outside today
